@@ -8,6 +8,7 @@
 - Mann kann auch das Blogtext, das Blogstitle und die Authorname (update) und (Delete) zu machen.   
 ## Demo  
 - Zum Ausführen des Projektes wird [Node.js](https://nodejs.org), 'npm install' dannach 'npm start' verwendet.
+- Zum starten des Projektes müssen Sie im Terminal einfach npm start führen. 
 - Ein Datenbank Cloud wird MongoDB Compass Cluster (http://www.mongodb.com) verwendet.
 - Installierbar sein durch der Anwendung von WebApp- Manifest- Generator.
 
