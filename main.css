@@ -1,0 +1,9 @@
+body {
+    background: #3e3d3d !important;
+  }
+  .card-img {
+    background: url('');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+  }
